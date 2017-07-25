@@ -1,7 +1,14 @@
 # IDPS
-echo "# IDPS" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Rdot-idps/IDPS.git
-git push -u origin master
+IDPS Installation Guides
+
+For installation of whole system, you can follow step-by-step in this guide
+
+Step 1: Install OPNsense Server
+
+Step 2: Install Rabbix Client
+
+Step 3: Configuration server and clients
+
+Mailling List
+
+bkcloud@googlegroups.com
