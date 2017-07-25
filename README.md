@@ -11,4 +11,4 @@ Step 3: Configuration server and clients
 
 Mailling List
 
-bkcloud@googlegroups.com
+Rdot@most.gov.vn
